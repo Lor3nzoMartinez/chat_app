@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.login-title {
+  margin: auto;
+  margin-top: 4rem;
+  padding-bottom: 3rem;
+  color: #474b9b;
+  font-family: "Poppins", sans-serif;
+
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 54px;
+  letter-spacing: 1px;
+}
+
+.login-logo {
+  width: 25%;
+  margin-top: 3.5rem;
+  margin-bottom: 3.5rem;
+}
+
+.carousel-container {
+  height: 300px;
+  margin-bottom: 50px;
+}
+
+.submit-but {
+  width: 249.1px;
+  height: 50.18px;
+  margin: auto;
+  margin-top: 1rem;
+
+  background: #474b9b;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.35);
+  border-radius: 20px;
+  border: none;
+}
+
+.submit-but p {
+  width: 248.06px;
+  margin: auto;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.signin-form-comp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: 100px;
+}
+
+.signin-form {
+  margin-top: 100px;
+}
+
+.signin-label {
+  color: #474b9b;
+}
+
+.signin-field-comp {
+  padding: 0.5rem;
+  margin-bottom: 4rem;
+  border: none;
+  border-bottom: 1px solid #474b9b;
+  width: 50vw;
+}
+
+.signin-field {
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+  margin-bottom: 4rem;
+  border: none;
+  border-bottom: 1px solid #474b9b;
+  width: 75vw;
+}
+
+.help-link {
+  margin: auto;
+
+  margin-top: 75px;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+
+  text-decoration-line: underline;
+
+  color: rgba(71, 75, 155, 0.8);
+}
+
+.verify-submit-but {
+  width: 200px;
+  height: 33px;
+  margin: auto;
+  margin-top: 2rem;
+
+  background: #474b9b;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.35);
+  border-radius: 20px;
+  border: none;
+}
+
+.verify-submit-but p {
+  margin: auto;
+
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+
+  color: rgba(255, 255, 255, 0.9);
+}
